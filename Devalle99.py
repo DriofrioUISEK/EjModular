@@ -9,5 +9,3 @@ def fibonacci(len):
             print(str(i) + ', ', end='')
         else:
             print(str(i) + "]")
-
-fibonacci(10)
